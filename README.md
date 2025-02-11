@@ -4,10 +4,10 @@
 
 **What’s Inside?**
 
-📌 **Logo** – Official BalticNOG logo in various formats
-📌 **Favicon** – Icon for web and branding purposes
-📌 **Logo Symbols** – Isolated logo elements for design and promotional use
-📌 **Brandbook** – Official guidelines on how to use BalticNOG’s branding elements
+* 📌 **Logo** – Official BalticNOG logo in various formats
+* 📌 **Favicon** – Icon for web and branding purposes
+* 📌 **Logo Symbols** – Isolated logo elements for design and promotional use
+* 📌 **Brandbook** – Official guidelines on how to use BalticNOG’s branding elements
 ---
 **Usage Guidelines**
 
