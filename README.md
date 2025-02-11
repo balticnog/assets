@@ -17,3 +17,4 @@ Please ensure that all BalticNOG branding assets are used appropriately and in c
 
 💬 Join our Slack Community: https://join.slack.com/t/balticnog/shared_invite/zt-2zih9fhr8-qQOUvHpHRCxI9QdzKVAc8Q  
 🌍 Follow us for updates and events! https://www.balticnog.org
+🎞️ Youtube channel: https://www.youtube.com/@BalticNOG
