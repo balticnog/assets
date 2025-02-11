@@ -4,10 +4,13 @@
 
 **What’s Inside?**
 
-* 📌 **Logo** – Official BalticNOG logo in various formats
-* 📌 **Favicon** – Icon for web and branding purposes
-* 📌 **Logo Symbols** – Isolated logo elements for design and promotional use
-* 📌 **Brandbook** – Official guidelines on how to use BalticNOG’s branding elements
+📌 **Logo** – Official BalticNOG logo in various formats
+
+📌 **Favicon** – Icon for web and branding purposes
+
+📌 **Logo Symbols** – Isolated logo elements for design and promotional use
+
+📌 **Brandbook** – Official guidelines on how to use BalticNOG’s branding elements
 
 ---
 
@@ -17,5 +20,5 @@ Please ensure that all BalticNOG branding assets are used appropriately and in c
 
 **Stay Connected**
 
-💬 Join our Slack Community: https://join.slack.com/t/balticnog/shared_invite/zt-2zih9fhr8-qQOUvHpHRCxI9QdzKVAc8Q
-🌍 Follow us for updates and events! https://www.balticnog.org
+* 💬 Join our Slack Community: https://join.slack.com/t/balticnog/shared_invite/zt-2zih9fhr8-qQOUvHpHRCxI9QdzKVAc8Q
+* 🌍 Follow us for updates and events! https://www.balticnog.org
