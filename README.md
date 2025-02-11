@@ -8,7 +8,7 @@
 📌 **Favicon** – Icon for web and branding purposes
 📌 **Logo Symbols** – Isolated logo elements for design and promotional use
 📌 **Brandbook** – Official guidelines on how to use BalticNOG’s branding elements
-
+---
 **Usage Guidelines**
 
 Please ensure that all BalticNOG branding assets are used appropriately and in compliance with our brandbook. If you need custom versions or have any questions, feel free to reach out.
